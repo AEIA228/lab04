@@ -10,6 +10,8 @@ $
 
 Ангелина@DESKTOP-9PH23VV MINGW64 ~/Documents/GitHub/PRACTICA-2025 (main)
 $ # Настройка переменных окружения
+![2025-04-16_09-00-37](https://github.com/user-attachments/assets/b0b9b937-d1e3-4967-9b2f-b90e043c9ab5)
+
 
 Ангелина@DESKTOP-9PH23VV MINGW64 ~/Documents/GitHub/PRACTICA-2025 (main)
 $ export GITHUB_USERNAME=Ангелина
